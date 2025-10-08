@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #define INF 999
 using namespace std;
-
+// this is a change occured on Github website
 int n; 
 int w[100][100]; 
 int pre[100];
